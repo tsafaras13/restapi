@@ -45,17 +45,6 @@ echo json_encode($response);
  exit;
 ?>
 
-
-
-
-
-{
-$user_id=$i;
-$cell_id=rand(1,20);
-$time_cell = randomDate('08:30:00' , '14:00:00');
-$power=rand(-100,-55);
-$anonymous=rand(0,1);
-
  
 
 
